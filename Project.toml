@@ -1,6 +1,6 @@
 name = "Xorg_xorgproto_jll"
 uuid = "c4d99508-4286-5418-9131-c86396af500b"
-version = "2019.2.0+1"
+version = "2019.2.0+2"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
