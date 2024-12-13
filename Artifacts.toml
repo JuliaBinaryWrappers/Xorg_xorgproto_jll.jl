@@ -1,6 +1,6 @@
 [Xorg_xorgproto]
-git-tree-sha1 = "e9d8445463ad5ff4594aa39dc4e2f09984cd9d71"
+git-tree-sha1 = "a2243e6f767357711c3eb8fc66a3dde88f2559aa"
 
     [[Xorg_xorgproto.download]]
-    sha256 = "e0cea720a4a74669f280c27ed59b9f79331721f92a2e71d59e1061a7c550d710"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xorgproto_jll.jl/releases/download/Xorg_xorgproto-v2019.2.0+2/Xorg_xorgproto.v2019.2.0.any.tar.gz"
+    sha256 = "fa35c5f00145ee313e481ea97a400603310f47a20778744faea3d02f179ae991"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xorgproto_jll.jl/releases/download/Xorg_xorgproto-v2024.1.0+0/Xorg_xorgproto.v2024.1.0.any.tar.gz"
