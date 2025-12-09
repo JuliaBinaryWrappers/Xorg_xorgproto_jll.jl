@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("Xorg_xorgproto")
-JLLWrappers.@generate_main_file("Xorg_xorgproto", UUID("c4d99508-4286-5418-9131-c86396af500b"))
+JLLWrappers.@generate_main_file("Xorg_xorgproto", Base.UUID("c4d99508-4286-5418-9131-c86396af500b"))
 end  # module Xorg_xorgproto_jll

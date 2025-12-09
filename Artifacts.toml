@@ -3,4 +3,4 @@ git-tree-sha1 = "a2243e6f767357711c3eb8fc66a3dde88f2559aa"
 
     [[Xorg_xorgproto.download]]
     sha256 = "fa35c5f00145ee313e481ea97a400603310f47a20778744faea3d02f179ae991"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xorgproto_jll.jl/releases/download/Xorg_xorgproto-v2024.1.0+0/Xorg_xorgproto.v2024.1.0.any.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xorgproto_jll.jl/releases/download/Xorg_xorgproto-v2024.1.1+0/Xorg_xorgproto.v2024.1.1.any.tar.gz"
